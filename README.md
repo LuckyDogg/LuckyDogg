@@ -2,9 +2,9 @@
 
 
 
-🔭 I’m currently working on Golang, Kubernetes, CloudNative, DevOps
-🌱 I’m currently learning Service Mesh, such as istio
-📫 How to reach me: wilson.wang.hc@gmail.com
+- 🔭 I’m currently working on Golang, Kubernetes, CloudNative, DevOps
+- 🌱 I’m currently learning Service Mesh, such as istio
+- 📫 How to reach me: wilson.wang.hc@gmail.com
 
 - [My Badges](https://www.credly.com/users/haichao-wang.2f93a0be)
 
